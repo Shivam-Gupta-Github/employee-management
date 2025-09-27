@@ -21,7 +21,7 @@ Backend provides RESTful API endpoints; frontend uses a service layer to consume
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/employee-management.git
+git clone https://github.com/Shivam-Gupta-Github/employee-management.git
 cd employee-management
 ```
 
